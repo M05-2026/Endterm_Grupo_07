@@ -15,4 +15,4 @@ de control de versiones, tests automatizados y colaboración en equipo.
   - Desarrollo de la aplicación
 - Revisión colaborativa de código en Github para la detección de bugs y mejoras
 - Automatización de la ejecución de los tests en Github
-- El repositorio resultante debe reflejar con commits una repartición equitativa del trabajo
+- El repositorio resultante debe reflejar con commits una repartición equitativa del trabajo.
